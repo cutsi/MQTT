@@ -1,0 +1,34 @@
+{
+	"sensorList": 
+		[
+			{
+				"factor": 10,
+				"unit" : "Bar",
+				"min" : -32668,
+				"max" : 32668,
+				"topic" : "Sensor/Water Temperature"
+			},
+			{
+				"factor": 1000,
+				"unit" : "C",
+				"min" : 0,
+				"max" : 32666,
+				"topic" : "Sensor/Water pressure"
+			},
+			{
+				"factor": 0,
+				"unit" : "C",
+				"min" : 0,
+				"max" : 32666,
+				"topic" : "Sensor/day"
+			},
+			{
+				"factor": 0,
+				"unit" : "C",
+				"min" : 0,
+				"max" : 32666,
+				"topic" : "Sensor/month"
+			}
+			
+		]	
+}
